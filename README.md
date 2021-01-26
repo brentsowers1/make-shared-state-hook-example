@@ -1,2 +1,3 @@
-# make-shared-state-hook-example
-Example usage of the make-shared-state-hook package
+This is an example of the make-shared-state-hook library in action for React application.  Just run `npm start` to see it in action!
+
+[src/MakeSharedStateHookExample.js](./src/MakeSharedStateHookExample.js) is the component you'll want to look at.
